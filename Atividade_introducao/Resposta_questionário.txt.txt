@@ -35,3 +35,12 @@ o        111    0110 1111
 
 Parte 3 
 
+Vs CODE
+
+O  Visual Studio Code ele é um editor muito leve,
+ele atende uma quantidade enorme de projetos (ASP, NET, NODE.js)
+e oferece suporte para mais de 30 linguagens de programação,
+como JavaScript, C#,C++,PHP,JAVA,HTML,R,CSS,SQL,MARKDOWN,TYPESCRIPT,LESS, SASS, JSON,XML E PYTHON,
+a praticidade dele é usado com as mãos, e o uso mínimo possível do mouse. 
+O editor possui uma ferramenta chamada “Go to Definition” que no caso é usado para um projeto grande. 
+
