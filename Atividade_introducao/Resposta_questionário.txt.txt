@@ -1,0 +1,37 @@
+Nome:Indianara Aparecida Costa Pinheiro
+RA:1460682023043
+Parte 1
+ 
+Sistema Computacional= sistema operacional - Windows // software - GIT
+
+
+Dados= é um registro ou valor sem significado, por exemplo um valor numérico 45
+
+Informação= é um dado com significado, por exemplo temperatura 35°C, que é registro de temperatura
+
+
+Conhecimento= quando utilizamos o dados da informação,
+por exemplo: 100°C, sabe-se que é uma temperatura muito alta, onde muda o estado da água vira vapor.
+Parte 2 - Tabela ASCII
+NOME   DECIMAL  BINÁRIO 
+I        73     0100 1001
+n        110    0110 1110
+d        100    0110 0100
+i        108    0110 1100
+a        97     0110 0001
+n        110    0110 1110
+a        97     0110 0001   
+r        114    0111 0010
+a        97     0110 0001
+
+P        80     0101 0000
+i        108    0110 1100
+n        110    0110 1110
+h        104    0110 1000
+e        101    0110 0101
+i        108    0110 1100
+r        114    0111 0010
+o        111    0110 1111
+
+Parte 3 
+
